@@ -8,7 +8,7 @@ buttons = ButtonsClient(client)
 
 @client.event
 async def on_ready():
-	print(f"Logged in as {client.user.name}")
+	print(f"Logged in as {client.user}")
 
 @client.command()
 async def invite(ctx):
