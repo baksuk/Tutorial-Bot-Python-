@@ -1,2 +1,2 @@
 # Tutorial Bot Python
-Click on main and choose your the branch you want!
+Click on main and choose the branch you want!
